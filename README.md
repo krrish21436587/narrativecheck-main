@@ -8,9 +8,9 @@ An AI-powered system for validating whether a hypothetical character backstory i
 ## 🌐 Run Locally  
 The only requirement is having Node.js & npm installed.
 # Step 1 : Open terminal
-''' cd "file path/narrativecheck-main" ; npm install '''
-# Step 2 :
-''' cd "file path/narrativecheck-main" ; npm run dev '''
+``` cd "file path/narrativecheck-main" ; npm install ```
+# Step 2 : In the same terminal
+``` cd "file path/narrativecheck-main" ; npm run dev ```
 ---
 
 ## 🚀 What This Project Does
