@@ -5,10 +5,12 @@ An AI-powered system for validating whether a hypothetical character backstory i
 
 ---
 
-## 🌐 Live Application  
-**Access the system here:**  
-👉 https://narrativecheck.lovable.app/
-
+## 🌐 Run Locally  
+The only requirement is having Node.js & npm installed.
+# Step 1 : Open terminal
+'''' cd "file path/narrativecheck-main" ; npm install ''''
+# Step 2 :
+'''' cd "file path/narrativecheck-main" ; npm run dev ''''
 ---
 
 ## 🚀 What This Project Does
