@@ -159,7 +159,7 @@ Theme: **AI-Driven Narrative Intelligence & Reasoning Systems**
 We envision a future where:
 - Stories are logically validated like code  
 - Character histories are machine-verifiable  
-- AI systems can reason about fiction with human-level consistency  
+- AI systems can reason about fiction with human-level consistency.  
 
 This project is a step toward **formal narrative intelligence**.
 
